@@ -1,0 +1,6 @@
+c:\users\master\documents\visual studio 2015\Projects\BattleWarrion\BattleWarrion\bin\Debug\BattleWarrion.exe.config
+c:\users\master\documents\visual studio 2015\Projects\BattleWarrion\BattleWarrion\bin\Debug\BattleWarrion.exe
+c:\users\master\documents\visual studio 2015\Projects\BattleWarrion\BattleWarrion\bin\Debug\BattleWarrion.pdb
+c:\users\master\documents\visual studio 2015\Projects\BattleWarrion\BattleWarrion\obj\Debug\BattleWarrion.exe
+c:\users\master\documents\visual studio 2015\Projects\BattleWarrion\BattleWarrion\obj\Debug\BattleWarrion.pdb
+c:\users\master\documents\visual studio 2015\Projects\BattleWarrion\BattleWarrion\obj\Debug\BattleWarrion.csprojResolveAssemblyReference.cache
